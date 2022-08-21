@@ -1,8 +1,7 @@
 # JS-Training-FB-likes
 
-## Practicing some js by solving the 'Who likes it?' challenge from codewars:
+## Practicing some js by solving the 'Who likes it?' challenge:
 
-'''
 In the "like" system from pages like facebook people can "like" posts, pictures or other items. 
 Your function should create the text that should be displayed next to such an item.
 
