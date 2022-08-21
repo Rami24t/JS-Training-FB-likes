@@ -1,16 +1,15 @@
 # JS-Training-FB-likes
 
-# Practicing some js by solving this problem from codewars: 
+## Practicing some js by solving the 'Who likes it?' challenge from codewars:
 
 '''
-Who likes it?
-You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+In the "like" system from pages like facebook people can "like" posts, pictures or other items. 
+Your function should create the text that should be displayed next to such an item.
 
-Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
+Implement the function which takes an array containing the names of people that like an item and returns the display text as shown in these examples:
 
 []                                -->  "no one likes this"
-["Peter"]                         -->  "Peter likes this"
-["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
-["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
-["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
-'''
+["Botros"]                         -->  "Botros likes this"
+["Gallops", "Alex"]                 -->  "Gallops and Alex like this"
+["Maxi", "Johanna", "Markus"]           -->  "Maxi, Johanna and Markus like this"
+["Ella", "Bob", "Mark", "Max"]  -->  "Ella, Bob and 2 others like this"
