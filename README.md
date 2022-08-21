@@ -13,3 +13,4 @@ Implement the function which takes an array containing the names of people that 
 ["Gallops", "Alex"]                 -->  "Gallops and Alex like this"
 ["Maxi", "Johanna", "Markus"]           -->  "Maxi, Johanna and Markus like this"
 ["Ella", "Bob", "Mark", "Max"]  -->  "Ella, Bob and 2 others like this"
+['Rami', 'Jacob', 'Mark', 'Max','Kristie','Christie','Lewak','Brita','Erico', 'Dani'] --> 'Rami, Jacob and 8 others like this'
